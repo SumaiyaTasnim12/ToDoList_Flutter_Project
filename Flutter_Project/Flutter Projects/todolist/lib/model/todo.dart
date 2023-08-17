@@ -19,7 +19,7 @@ static List<ToDo> todoList(){
     ToDo(id: '03', todoText: 'Check Emails', ),
     ToDo(id: '04', todoText: 'Team meeting',  ),
     ToDo(id: '05', todoText: 'Work on mobile app', ),
-    ToDo(id: '06', todoText: 'Dinner with sumaiya soitan', ),
+    ToDo(id: '06', todoText: 'Dinner with rizvi', ),
 
   ];
 }
